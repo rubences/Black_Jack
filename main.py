@@ -13,7 +13,7 @@ cartas = {
     chr(0x1f0aa): 10,
     chr(0x1f0ab): 10,
     chr(0x1f0ad): 10,
-    chr(0x1f0ae): 10,
+    chr(0x1f0ae): 11,
 }
 
 print("Cartas: {}".format(" ".join(cartas.keys())))
